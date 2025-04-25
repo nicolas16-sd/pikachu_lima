@@ -9,6 +9,7 @@ Treino para desenvolvimento de sites.
 * HTML
 * CSS
 * Git
+* Markdown
 
 ## Autor
 Nicolas dos Santos
