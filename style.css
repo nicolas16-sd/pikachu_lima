@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0; 
+}
+
+ul, ol, li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #f5cf05;
+}
+
+header {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+header .Pokebola {
+    width: 199px;
+    height: 48px;
+    top: 70px;
+    left: 70px;
+}
+
+main {
+    height: 100vh;
+}
+
+footer {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100px;
+}
+
+footer span {
+    height: 20px;
+    font-family: "Rigtheous", sans-serif;
+    color: #8E4106;
+}
+
